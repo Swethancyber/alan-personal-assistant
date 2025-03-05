@@ -1,2 +1,2 @@
-it's ap personal assistant using python
-named as alan
+It's a personal assistant using python
+Named as alan
